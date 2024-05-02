@@ -18,7 +18,7 @@ Confira alguns dos meus projetos mais recentes:
 
 - Desafio_Logica_Modulo_01 https://github.com/GustavoBMoreira/Projetos_Cubos/tree/main/Desafio_Logica_Modulo_01 - Este repositório contém soluções para desafios de lógica de programação propostos durante o Módulo 01 do curso oferecido pela Cubos Academy. Os desafios abordam uma variedade de conceitos básicos de programação, incluindo condicionais, loops, métodos de string e array, além de funções.
   
-- Desafio_Backend_Modulo_02  - Este projeto consiste na implementação de uma API REST para um sistema bancário básico, desenvolvido como parte do Desafio do Módulo 02 do curso oferecido pela Cubos Academy. A API permite realizar várias operações relacionadas a contas bancárias, como listar, criar, atualizar e excluir contas, depositar dinheiro, transferir dinheiro entre contas, sacar dinheiro, verificar saldo e imprimir extrato com histórico de transações.
+- Desafio_Backend_Modulo_02 - https://github.com/GustavoBMoreira/Projetos_Cubos/tree/main/Desafio_Backend_Modulo_02 - Este projeto consiste na implementação de uma API REST para um sistema bancário básico, desenvolvido como parte do Desafio do Módulo 02 do curso oferecido pela Cubos Academy. A API permite realizar várias operações relacionadas a contas bancárias, como listar, criar, atualizar e excluir contas, depositar dinheiro, transferir dinheiro entre contas, sacar dinheiro, verificar saldo e imprimir extrato com histórico de transações.
 
 ## Interesses
 Além da programação, tenho interesse em:
