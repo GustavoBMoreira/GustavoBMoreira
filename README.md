@@ -29,4 +29,4 @@ Além da programação, tenho interesse em:
 
 Fique à vontade para entrar em contato comigo para colaborações ou apenas para trocar ideias sobre tecnologia!
 
-![Gif_Programador](https://giphy.com/embed/bGgsc5mWoryfgKBx1u)
+![Animation](https://giphy.com/embed/bGgsc5mWoryfgKBx1u)
