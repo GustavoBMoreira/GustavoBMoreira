@@ -29,4 +29,4 @@ Além da programação, tenho interesse em:
 
 Fique à vontade para entrar em contato comigo para colaborações ou apenas para trocar ideias sobre tecnologia!
 
-![Animation](https://giphy.com/embed/bGgsc5mWoryfgKBx1u)
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><img src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></img></div><p><a href="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u">via GIPHY</a></p>
